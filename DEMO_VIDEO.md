@@ -2,9 +2,9 @@
 
 ## 🎥 Demo Video
 
-**[Watch the Demo Video Here](https://your-demo-video-link.com)** 
+**[Watch the Demo Video Here](https://drive.google.com/file/d/1MRyme_zzzULaD1KZMWwmY99xQeKAGUL1/view?usp=drive_link)** 
 *Replace this placeholder with your actual demo video URL (YouTube, Vimeo, etc.)*
 
-**Duration**: 5-7 minutes  
+ 
 **Target Audience**: Developers, Technical Leads, Code Review Managers  
 **Purpose**: Demonstrate the Code Review Assistant's capabilities and ease of use
