@@ -136,7 +136,7 @@ curl -X POST "http://localhost:8000/api/review-text" \
 
 ## 🎥 Demo Video
 
-A comprehensive demo video script is provided in `DEMO_SCRIPT.md` with:
+A comprehensive demo video and script is provided in `DEMO_VIDEO.md` with:
 - 5-7 minute presentation outline
 - Sample code examples (good vs. bad)
 - Recording tips and post-production guidance
@@ -161,7 +161,7 @@ code-reviewer-assistant/
 ├── run.py                # Main entry point
 ├── test_app.py           # Test script
 ├── README.md             # Comprehensive documentation
-├── DEMO_SCRIPT.md        # Demo video script
+├── DEMO_VIDEO.md         # Demo video and script
 └── PROJECT_SUMMARY.md    # This file
 ```
 
